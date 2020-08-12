@@ -13,5 +13,6 @@
 ### Test your domain alredy proxy by cloudlare alredy use secrigo ssl not cloudlfare ssl 
 ![alt text](https://i.imgur.com/50XI1p6.png)
 
-### for renew ssl you just replace SSL certificate and key
+### for renew ssl you can upload new ssl
+
 
